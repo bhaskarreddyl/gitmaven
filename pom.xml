@@ -2,8 +2,8 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.mkyong</groupId>
 <artifactId>NumberGenerator</artifactId>
-<packaging>jar</packaging>
-<version>1.0.1-SNAPSHOT</version>
+<packaging>war</packaging>
+<version>1.0</version>
 <name>NumberGenerator</name>
 <properties>
 <jdk.version>1.7</jdk.version>
