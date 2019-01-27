@@ -48,9 +48,9 @@ http://localhost:8081/nexus/content/repositories/svn-ant/
 </url>
 </repository>
 <snapshotRepository>	
-<id>svn-ant-snap</id>
+<id>svn-ant-snapshot</id>
 <url>
-http://localhost:8081/nexus/content/repositories/svn-ant-snap/
+http://localhost:8081/nexus/content/repositories/svn-ant-snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
